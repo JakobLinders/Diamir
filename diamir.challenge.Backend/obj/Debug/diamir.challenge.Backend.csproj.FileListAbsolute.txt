@@ -1,0 +1,12 @@
+C:\Users\conso\Desktop\Övrigt\Kod\Diamir\diamir.challenge\diamir.challenge\diamir.challenge.Backend\diamir.challenge.Backend\bin\Debug\diamir.challenge.Backend.exe.config
+C:\Users\conso\Desktop\Övrigt\Kod\Diamir\diamir.challenge\diamir.challenge\diamir.challenge.Backend\diamir.challenge.Backend\bin\Debug\diamir.challenge.Backend.exe
+C:\Users\conso\Desktop\Övrigt\Kod\Diamir\diamir.challenge\diamir.challenge\diamir.challenge.Backend\diamir.challenge.Backend\bin\Debug\diamir.challenge.Backend.pdb
+C:\Users\conso\Desktop\Övrigt\Kod\Diamir\diamir.challenge\diamir.challenge\diamir.challenge.Backend\diamir.challenge.Backend\bin\Debug\StructureMap.dll
+C:\Users\conso\Desktop\Övrigt\Kod\Diamir\diamir.challenge\diamir.challenge\diamir.challenge.Backend\diamir.challenge.Backend\bin\Debug\StructureMap.xml
+C:\Users\conso\Desktop\Övrigt\Kod\Diamir\diamir.challenge\diamir.challenge\diamir.challenge.Backend\diamir.challenge.Backend\obj\Debug\diamir.challenge.Backend.csproj.AssemblyReference.cache
+C:\Users\conso\Desktop\Övrigt\Kod\Diamir\diamir.challenge\diamir.challenge\diamir.challenge.Backend\diamir.challenge.Backend\obj\Debug\diamir.challenge.Backend.csproj.CoreCompileInputs.cache
+C:\Users\conso\Desktop\Övrigt\Kod\Diamir\diamir.challenge\diamir.challenge\diamir.challenge.Backend\diamir.challenge.Backend\obj\Debug\diamir.challenge.Backend.csproj.CopyComplete
+C:\Users\conso\Desktop\Övrigt\Kod\Diamir\diamir.challenge\diamir.challenge\diamir.challenge.Backend\diamir.challenge.Backend\obj\Debug\diamir.challenge.Backend.exe
+C:\Users\conso\Desktop\Övrigt\Kod\Diamir\diamir.challenge\diamir.challenge\diamir.challenge.Backend\diamir.challenge.Backend\obj\Debug\diamir.challenge.Backend.pdb
+C:\Users\conso\Desktop\Övrigt\Kod\Diamir\diamir.challenge\diamir.challenge\diamir.challenge.Backend\diamir.challenge.Backend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\conso\Desktop\Övrigt\Kod\Diamir\diamir.challenge\diamir.challenge\diamir.challenge.Backend\diamir.challenge.Backend\bin\Debug\Newtonsoft.Json.xml
